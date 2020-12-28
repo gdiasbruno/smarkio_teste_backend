@@ -13,7 +13,7 @@ Você precisa do Node.js, o node global package yarn e o MySQL (recomendo uso da
     $ git clone https://github.com/gdiasbruno/smarkio_teste_backend.git
     $ cd smarkio_teste_backend
     $ yarn install
-    $ yarn migration:run
+    $ yarn typeorm migration:run
 
 ## Configure app
 
