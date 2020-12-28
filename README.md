@@ -6,9 +6,9 @@
 
 ## Requerimentos para instalação em ambiente local
 
-Você precisa do Node.js, o node global package yarn e o Docker com uma imagem do MYSQL:
+Você precisa do Node.js, o node global package yarn e o Docker:
 
-## Instalação imagem do MYSQL Docker :
+## Instalação da imagem do MYSQL Docker :
 
 Certifique-se que a porta '3306' está desocupada, caso não esteja use uma outra parte no primeiro número depois da flag -p. Exemplo: '3307?3306' ou '3308:3306'. A segunda porta constitui a porta que o container vai utilizar, deve ser '3306'
 
